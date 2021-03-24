@@ -1,3 +1,0 @@
-displayName = Enthusiast Couch
-author = AdamTheNew
-version = 0.2
